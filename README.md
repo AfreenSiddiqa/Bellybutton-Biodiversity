@@ -31,7 +31,7 @@ Using your knowledge of JavaScript, Plotly, and D3.js, create a gauge chart that
 ![Belly Button Bio Wahing Frequency](https://user-images.githubusercontent.com/93686963/152630732-44badeb0-7547-4bc4-b49f-ca22fdc3a5a0.PNG)
 
 
-4.Deliverable 4: Customize the Dashboard
+4.Deliverable4: Customize the Dashboard
 
 Use your knowledge of HTML and Bootstrap to customize the webpage for your dashboard.
 
