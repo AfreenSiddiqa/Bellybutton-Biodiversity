@@ -14,7 +14,7 @@ Bar chart:
 
 
 2.Deliverable 2: Create a Bubble Chart
-Using your knowledge of JavaScript, Plotly, and D3.js, create a bubble chart that will display the following when an individual’s ID is selected from the dropdown menu webpage:
+Using your knowledge of JavaScript, Plotly, and D3.js, create a bubble chart that will display the following when an individual’s ID is selected from the dropdown menu  webpage:
 
 The otu_ids as the x-axis values.
 The sample_values as the y-axis values.
